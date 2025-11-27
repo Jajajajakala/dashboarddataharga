@@ -46,7 +46,3 @@ Pastikan Anda memiliki MetaTrader5 terinstall dan akun demo/real aktif.
 
 Gunakan kredensial login MT5 Anda dengan bijak. Jangan commit password ke repo publik!
 
-👥 Kontributor
-🧠 Bruhhh Cookie — Data Analyst, Visual Insight Designer
-
-🤝 ChatGPT — Partner Coder dalam pengembangan logika, debugging, dan penyusunan komponen analitik.
